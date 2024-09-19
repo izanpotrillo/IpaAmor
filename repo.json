@@ -1,0 +1,18 @@
+{
+  "name": "Repo de MichiGatitos",
+  "identifier": "com.mirepositorio.repo",
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Izan",
+      "version": ".....",
+      "versionDate": "....",
+      "versionDescription": "Spotify pirateado (abran actualizaciones).",
+      "downloadURL": "https://www.mediafire.com/file/xn5fqpjm5kxocn4/Spotify+Pirateado.ipa/file",
+      "localizedDescription": "Spotify pirateado (abran actualizaciones).",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
+      "tintColor": "018084"
+    }
+  ]
+}
